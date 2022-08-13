@@ -1,7 +1,7 @@
 
 
 
-name = "my  name is PRANALI"
+name = "my  name is VAISHNAVI"
 print(name.lower())
 name="satape"
 print(name.upper())
